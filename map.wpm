@@ -1,0 +1,104 @@
+{
+  "blocks": [
+    {
+      "id": "-26484",
+      "name": "Куб(Clone)",
+      "material": "green",
+      "position": {
+        "x": -3.882546066025001,
+        "y": 5.350200176000002,
+        "z": 7.41666842
+      },
+      "rotation": {
+        "x": -0.00891546,
+        "w": 0.9999603
+      },
+      "size": {
+        "x": 3.73103428,
+        "y": 3.73103428,
+        "z": 3.73103428
+      },
+      "tpSize": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "physicDynamicFriction": 1.0
+    },
+    {
+      "id": "75514",
+      "name": "spawn",
+      "logicType": 1,
+      "material": "green",
+      "position": {
+        "y": 2.0
+      },
+      "rotation": {
+        "w": 1.0
+      },
+      "size": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "tpSize": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "physicDynamicFriction": 1.0
+    },
+    {
+      "id": "75632",
+      "name": "Directional Light",
+      "logicType": 2,
+      "lightColor": {
+        "r": 255,
+        "g": 244,
+        "b": 214,
+        "a": 255
+      },
+      "lightIntensivity": 1.0,
+      "material": "green",
+      "position": {
+        "y": 3.0
+      },
+      "rotation": {
+        "x": 0.568353355,
+        "y": -0.189146414,
+        "z": 0.019250799,
+        "w": 0.8005171
+      },
+      "size": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "tpSize": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "physicDynamicFriction": 1.0
+    },
+    {
+      "id": "75806",
+      "name": "Куб",
+      "material": "green",
+      "rotation": {
+        "w": 1.0
+      },
+      "size": {
+        "x": 25.0,
+        "y": 2.0,
+        "z": 25.0
+      },
+      "tpSize": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "physicDynamicFriction": 1.0
+    }
+  ]
+}
